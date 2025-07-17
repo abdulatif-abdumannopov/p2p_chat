@@ -93,7 +93,7 @@ Please ensure your code follows the Go Code Review Comments and includes tests w
 
 ## License
 
-This project is licensed under the MIT License. See the <a href="github.com/abdulatif-abdumannopov/p2p_chat/blob/master/LICENSE.md">LICENCE</a> file for details.
+This project is licensed under the MIT License. See the <a href="[github.com/abdulatif-abdumannopov/p2p_chat/blob/master/LICENSE.md](https://github.com/abdulatif-abdumannopov/p2p_chat/blob/master/LICENSE.md)">LICENCE</a> file for details.
 
 ## Acknowledgments
 
