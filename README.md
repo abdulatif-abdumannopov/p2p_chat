@@ -59,7 +59,7 @@ P2PChat is a decentralized, peer-to-peer chat application built with Go, designe
    - Example:
 
      ```bash
-       /conn: <peer-id>
+       /conn <peer-id>
      ```
 
 3. **Start Chatting**:
@@ -72,7 +72,7 @@ Example session:
 ```bash
 $ ./p2pchat
 Your Peer ID: 12D3KooW...
-/conn: 12D3KooW...
+/conn 12D3KooW...
 Connected to peer!
 > Hello, friend!
 < Hey, great to connect!
